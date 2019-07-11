@@ -25,7 +25,7 @@ SECRET_KEY = '8sew)^cuzp23w16j)j+i6t+1(zh#b6s+l6@%a0--kwy#_y@!@3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0']
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', 'lucidate.herokuapp.com', 'lucidate.io']
 
 
 # Application definition
